@@ -20,7 +20,7 @@ export const Sidebar = () => {
             <Zap className="h-6 w-6 text-primary-foreground" />
           </div>
           <div>
-            <h1 className="text-sm font-bold text-sidebar-foreground">Smart Energy</h1>
+            <h1 className="text-sm font-bold text-sidebar-foreground">EnergiQ</h1>
             <p className="text-xs text-muted-foreground">Monitor</p>
           </div>
         </div>
