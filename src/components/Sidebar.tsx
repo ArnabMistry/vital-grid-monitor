@@ -6,7 +6,7 @@ const navItems = [
   { title: "Dashboard", path: "/", icon: Home },
   { title: "Predictions", path: "/predictions", icon: TrendingUp },
   { title: "Anomalies", path: "/anomalies", icon: AlertTriangle },
-  { title: "Buildings", path: "/buildings", icon: Building2 },
+  // { title: "Buildings", path: "/buildings", icon: Building2 },
   { title: "Settings", path: "/settings", icon: Settings },
 ];
 
