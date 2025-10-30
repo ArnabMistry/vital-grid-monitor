@@ -1,4 +1,4 @@
-# ⚡ Voltwise - Smart Energy Consumption Predictor
+# ⚡ Energy IQ - Smart Energy Consumption Predictor
 
 > AI-powered energy management system for campuses and residential areas
 
@@ -28,7 +28,7 @@
 
 ## 🎯 Overview
 
-**Voltwise** is an AI-powered energy consumption prediction and optimization platform designed for educational campuses and residential communities. It leverages machine learning algorithms to analyze electricity consumption patterns, predict future usage, detect anomalies, and provide actionable insights for energy savings.
+**Energy IQ** is an AI-powered energy consumption prediction and optimization platform designed for educational campuses and residential communities. It leverages machine learning algorithms to analyze electricity consumption patterns, predict future usage, detect anomalies, and provide actionable insights for energy savings.
 
 ### Problem Statement
 
@@ -191,7 +191,7 @@ Voltwise provides:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/voltwise.git
+git clone [https://github.com/ArnabMistry/vital-grid-monitor.git]
 cd voltwise
 ```
 
@@ -529,14 +529,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👥 Team
 
-**Developed by**: [Your Name / Team Name]
+**Developed by**: Team Gryffindor
 
-**For**: [Hackathon Name / Academic Project]
+**For**: Inter UDBHAV-IIIT Hackathon
 
-**Contact**: 
-- Email: contact@voltwise.com
-- Twitter: [@voltwise](https://twitter.com/voltwise)
-- LinkedIn: [Voltwise](https://linkedin.com/company/voltwise)
 
 ---
 
@@ -569,7 +565,5 @@ For issues, questions, or feature requests:
 <div align="center">
 
 **⚡ Built with ❤️ for a sustainable future**
-
-[Website](https://voltwise.com) • [Demo](https://demo.voltwise.com) • [Documentation](https://docs.voltwise.com)
 
 </div>
