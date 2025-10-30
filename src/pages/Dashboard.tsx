@@ -82,11 +82,11 @@ const Dashboard = () => {
           </Button>
         }
       >
-        <div className="relative h-80">
+        <div className="relative h-80 pb-8">
           {/* Simulated chart area */}
           <div className="flex h-full items-end justify-between gap-2">
             {Array.from({ length: 24 }).map((_, i) => {
-              const height = Math.random() * 60 + 20;
+              const height = Math.random() * 50 + 50; // Changed from 60+20 to 50+50 (50-100% range)
               const isPrediction = i > 18;
               return (
                 <div key={i} className="relative flex-1">
@@ -99,7 +99,7 @@ const Dashboard = () => {
                     style={{ height: `${height}%` }}
                   />
                   {i % 4 === 0 && (
-                    <span className="absolute -bottom-6 left-1/2 -translate-x-1/2 text-xs text-muted-foreground">
+                    <span className="absolute top-full mt-2 left-1/2 -translate-x-1/2 text-xs text-muted-foreground whitespace-nowrap">
                       {i}:00
                     </span>
                   )}
